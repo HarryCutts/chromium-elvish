@@ -1,0 +1,5 @@
+{
+  "description": "Elvish completions for Chromium dev tools",
+  "maintainers": ["Harry Cutts <hcutts@chromium.org>"],
+  "dependencies": ["github.com/zzamboni/elvish-completions"]
+}
